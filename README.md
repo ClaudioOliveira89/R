@@ -1,9 +1,9 @@
-![R](https://img.shields.io/badge/R-4886ff?style=for-the-badge&logo=R&logoColor=white) 
+## Repository created for programming and development in the R language.
 
-This repository was built to expand my knowledge of the R language.
-The goal is to learn from the initial exploration of data to the implementation of complex statistical solutions, to manipulate data sets, perform statistical analysis, and develop predictive models. 
+![R](https://img.shields.io/badge/R-0d1117?style=for-the-badge&logo=R&logoColor=25fafe) 
 
-![](https://private-user-images.githubusercontent.com/87618859/365867935-1f5a5825-b252-4444-aada-62bb68beeac9.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjU5MzQ4OTcsIm5iZiI6MTcyNTkzNDU5NywicGF0aCI6Ii84NzYxODg1OS8zNjU4Njc5MzUtMWY1YTU4MjUtYjI1Mi00NDQ0LWFhZGEtNjJiYjY4YmVlYWM5LmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwOTEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDkxMFQwMjE2MzdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNzljZjFlNGQ5MzMzNzg5YjMyOWQyN2EyZjNkZjFkMWY0MDRjNjVhZWRiYWNkNTU5ZTc2NzZlOWEwMmIzNGNiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EVThs7pwCpsydDCkV9zz_4m_ACuFR9KRqbB8oatY_y4)
-
-Este repositório foi construido para expandir meus conhecimento na linguagem R.
-O objetivo é aprender desde a exploração inicial de dados até a implementação de soluções estatísticas complexas, para manipular conjuntos de dados, realizar análises estatísticas e desenvolver modelos preditivos.
+This repository was created for academic purposes to document my learning process with the R programming language, widely used in statistics, data analysis, predictive modeling, and data visualization. The main goal is to gradually explore both the core and advanced features of R, including data structures, manipulation with dplyr, visualizations with ggplot2, functional programming, statistical modeling, and the tidyverse ecosystem. This space will be used for practical experiments, statistical studies, notes, and small projects, with a focus on applications in academic, scientific, and professional data analysis contexts.
+<br>
+<br>
+<br/>
+Este repositório foi criado com fins acadêmicos para documentar meu processo de aprendizado da linguagem R, uma linguagem amplamente utilizada em estatística, análise de dados, modelagem preditiva e visualização de informações. O objetivo principal é explorar gradualmente os fundamentos e recursos avançados de R, incluindo estruturas de dados, manipulação com dplyr, visualizações com ggplot2, programação funcional, modelagem estatística e uso do ecossistema tidyverse. Este espaço será utilizado para experimentos práticos, estudos estatísticos, anotações e pequenos projetos, com foco em aplicações no meio acadêmico, científico e em análise de dados no ambiente profissional.
